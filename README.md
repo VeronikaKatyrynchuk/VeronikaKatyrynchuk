@@ -19,5 +19,5 @@ Skills:  REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaKatyrynchuk)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronikaKatyrynchuk&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronikaKatyrynchuk&show_icons=true)
 
