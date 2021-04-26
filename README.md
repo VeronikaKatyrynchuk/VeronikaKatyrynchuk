@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Veronika, an upbeat developer
+#### Junior Front End Developer
+![Junior Front End Developer](https://photos.app.goo.gl/QYhNbGAxxHu2Se3M7)
 
-<!--
-**VeronikaKatyrynchuk/VeronikaKatyrynchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a Big-Picture thinker and proficient in translating concepts into user flows, wireframes, mock-ups, and prototypes that lead to intuitive user experiences. A technology lover with a  passion and compassion for people and eager to comprehend what drives theme inwardly, and particularly in interactions with software and digital technology
 
-Here are some ideas to get you started:
+Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio website 
+- 🌱 I’m currently learning Data Structures + Algorithms(JavaScript + React + TypeScript) 
+- 🤔 I’m looking for help with JavaScript/React/TypeScript 
+- 📫 How to reach me: veronikakatyrynchuk@gmail.com 
+- 😄 Pronouns: Vero/Nika 
+- ⚡ Fun fact: hackathon lover 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VeronikaKatyrynchuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/veronikakatyrynchuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/webvero//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/web_vero/?hl=ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/veronikakatyrynchuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14394707/webvero?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://veronikakatyrynchuk.com/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaKatyrynchuk)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronikaKatyrynchuk&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/VeronikaKatyrynchuk)  
+
+
