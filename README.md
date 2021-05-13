@@ -3,7 +3,7 @@
 ![banner](https://user-images.githubusercontent.com/52572485/116117861-63ea4e00-a6c5-11eb-9cbc-3eec3b6dacbd.png)
  I am a Big-Picture thinker and proficient in translating concepts into user flows, wireframes, mock-ups, and prototypes that lead to intuitive user experiences. A technology lover with a  passion and compassion for people and eager to comprehend what drives theme inwardly, and particularly in interactions with software and digital technology
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  HTML / CSS / JS(light) / React(light)
 
 - 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning Data Structures + Algorithms(JavaScript + React + TypeScript) 
